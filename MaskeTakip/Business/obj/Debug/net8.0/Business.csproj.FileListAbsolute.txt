@@ -1,0 +1,15 @@
+C:\microservices\freestyle\MaskeTakip\Business\bin\Debug\net8.0\Business.deps.json
+C:\microservices\freestyle\MaskeTakip\Business\bin\Debug\net8.0\Business.dll
+C:\microservices\freestyle\MaskeTakip\Business\bin\Debug\net8.0\Business.pdb
+C:\microservices\freestyle\MaskeTakip\Business\bin\Debug\net8.0\Entities.dll
+C:\microservices\freestyle\MaskeTakip\Business\bin\Debug\net8.0\Entities.pdb
+C:\microservices\freestyle\MaskeTakip\Business\obj\Debug\net8.0\Business.csproj.AssemblyReference.cache
+C:\microservices\freestyle\MaskeTakip\Business\obj\Debug\net8.0\Business.GeneratedMSBuildEditorConfig.editorconfig
+C:\microservices\freestyle\MaskeTakip\Business\obj\Debug\net8.0\Business.AssemblyInfoInputs.cache
+C:\microservices\freestyle\MaskeTakip\Business\obj\Debug\net8.0\Business.AssemblyInfo.cs
+C:\microservices\freestyle\MaskeTakip\Business\obj\Debug\net8.0\Business.csproj.CoreCompileInputs.cache
+C:\microservices\freestyle\MaskeTakip\Business\obj\Debug\net8.0\Business.csproj.CopyComplete
+C:\microservices\freestyle\MaskeTakip\Business\obj\Debug\net8.0\Business.dll
+C:\microservices\freestyle\MaskeTakip\Business\obj\Debug\net8.0\refint\Business.dll
+C:\microservices\freestyle\MaskeTakip\Business\obj\Debug\net8.0\Business.pdb
+C:\microservices\freestyle\MaskeTakip\Business\obj\Debug\net8.0\ref\Business.dll

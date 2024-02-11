@@ -1,0 +1,11 @@
+C:\microservices\freestyle\MaskeTakip\Entities\bin\Debug\net8.0\Entities.deps.json
+C:\microservices\freestyle\MaskeTakip\Entities\bin\Debug\net8.0\Entities.dll
+C:\microservices\freestyle\MaskeTakip\Entities\bin\Debug\net8.0\Entities.pdb
+C:\microservices\freestyle\MaskeTakip\Entities\obj\Debug\net8.0\Entities.GeneratedMSBuildEditorConfig.editorconfig
+C:\microservices\freestyle\MaskeTakip\Entities\obj\Debug\net8.0\Entities.AssemblyInfoInputs.cache
+C:\microservices\freestyle\MaskeTakip\Entities\obj\Debug\net8.0\Entities.AssemblyInfo.cs
+C:\microservices\freestyle\MaskeTakip\Entities\obj\Debug\net8.0\Entities.csproj.CoreCompileInputs.cache
+C:\microservices\freestyle\MaskeTakip\Entities\obj\Debug\net8.0\Entities.dll
+C:\microservices\freestyle\MaskeTakip\Entities\obj\Debug\net8.0\refint\Entities.dll
+C:\microservices\freestyle\MaskeTakip\Entities\obj\Debug\net8.0\Entities.pdb
+C:\microservices\freestyle\MaskeTakip\Entities\obj\Debug\net8.0\ref\Entities.dll
